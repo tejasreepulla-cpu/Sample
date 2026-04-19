@@ -14,6 +14,5 @@
 # ⚡ Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasreepulla&show_icons=true&locale=en" alt="tejasreepulla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasreepulla&" alt="tejasreepulla" /></p>
 
 
