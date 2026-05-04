@@ -1,0 +1,4 @@
+username,password,balance,transactions
+tejasree,teja@123,30000,Deposit:50000|Withdraw:20000
+teja,teja@123,59000,Deposit:50000|Withdraw:30000|Withdraw:10000|Deposit:5000|Withdraw:1000|Deposit:5000|Withdraw:5000|Deposit:50000|Withdraw:5000
+kavya,teja@123,40000,Deposit:50000|Withdraw:50000|Deposit:50000|Withdraw:10000
